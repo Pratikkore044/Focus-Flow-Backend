@@ -1,5 +1,17 @@
 # 🚀 FocusFlow Backend (API Server)
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/Pratikkore044/Focus-Flow-Backend?style=social)
+![API Status](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fyour-render-app-name.onrender.com)
+
 FocusFlow Backend is a scalable RESTful API built using the MERN stack with JavaScript.  
 It powers authentication, task management  for the FocusFlow productivity platform.
 
@@ -142,3 +154,6 @@ You can test using:
 
 Pratik Kore  
 MERN Stack Developer
+
+# 🚀 FocusFlow Backend (API Server)
+
